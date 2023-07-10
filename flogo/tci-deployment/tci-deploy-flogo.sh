@@ -5,6 +5,7 @@
 # .SYNOPSIS
 #   Script name: tci-deploy-flogo.sh
 #   Version: 1.6.0
+#   Author: Abhishek Bhatia (Cloud Software Group - TIBCO PSG)
 #   Date: 06/21/2023
 #
 # .DESCRIPTION
